@@ -43,3 +43,5 @@ const useCustomEffect = (effect , deps)=>{
 
 
 }
+
+export default useCustomEffect;
